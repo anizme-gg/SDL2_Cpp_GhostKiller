@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1676941467 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\common.cpp
+	"Common.h"
+
+1677480225 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\common.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1676941710 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\gameloop.cpp
+	"GameLoop.h"
+
+1676942906 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\gameloop.h
+	"Common.h"
+
+1683159956 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"GameMap.h"
+	"ImpTime.h"
+	"ThreatObject.h"
+	"TextObject.h"
+	"GhostNest.h"
+	<ctime>
+
+1676943098 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\texturemanager.cpp
+	"TextureManager.h"
+
+1676943071 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\texturemanager.h
+	"Common.h"
+
+1677480225 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\player.cpp
+	"Player.h"
+
+1677480225 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\player.h
+	"Common.h"
+	"LTexture.h"
+
+1677480225 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\ltexture.cpp
+	"LTexture.h"
+
+1677480225 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\ltexture.h
+	"Common.h"
+
+1676965827 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\tile.h
+	"Common.h"
+
+1677480225 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\tile.cpp
+
+1681625783 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\baseobject.cpp
+	"BaseObject.h"
+
+1681723440 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\baseobject.h
+	"CommonFunc.h"
+
+1682842274 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\commonfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1682956692 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\mainobject.h
+	<vector>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1682956932 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\mainobject.cpp
+	"MainObject.h"
+
+1678151784 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\imptime.cpp
+	"ImpTime.h"
+
+1678151784 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\imptime.h
+	"CommonFunc.h"
+
+1682955077 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\gamemap.cpp
+	"GameMap.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1682217131 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\gamemap.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1682954511 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\bulletobject.cpp
+	"BulletObject.h"
+
+1682321439 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\bulletobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	<sstream>
+
+1682956338 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\threatobject.cpp
+	"ThreatObject.h"
+
+1682956246 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+	<sstream>
+
+1678771672 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\ghosthouse.cpp
+	"GhostHouse.h"
+
+1678771703 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\ghosthouse.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1678787515 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\commonfunc.cpp
+	"CommonFunc.h"
+
+1681748136 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\textobject.cpp
+	"TextObject.h"
+
+1681749149 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\textobject.h
+	"CommonFunc.h"
+
+1682955077 source:c:\users\hiren\onedrive\documents\programming\game\ghostkiller\ghostnest.cpp
+	"GhostNest.h"
+
+1682842543 c:\users\hiren\onedrive\documents\programming\game\ghostkiller\ghostnest.h
+	"BaseObject.h"
+	"MainObject.h"
+	"CommonFunc.h"
+
